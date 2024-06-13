@@ -21,7 +21,9 @@
 
         "favoredReligion": "Christianity",
 		"uniqueName": "Manifest Destiny",
-		"uniques": [ "[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]" , "[+100]% Yield from every [Natural Wonder]", "[2] free [Settler] units appear", "[+100]% [Production] [in all cities]"],
+		"uniques": [ "[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]" , "[+100]% Yield from every [Natural Wonder]", "[2] free [Settler] units appear", "[+100]% [Production] [in all cities]", 
+			"[+20]% Yield from every [Luxury resource]"
+		],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
