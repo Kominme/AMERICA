@@ -22,7 +22,7 @@
         "favoredReligion": "Christianity",
 		"uniqueName": "Manifest Destiny",
 		"uniques": [ "[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]" , "[+100]% Yield from every [Natural Wonder]", "[2] free [Settler] units appear", "[+100]% [Production] [in all cities]", 
-			"[+100]% Yield from every [Luxury resource]", "[+1 Happiness] per [1] population [in all cities]", "[+100%] Production when constructing [All] wonders [in all cities]", "Quantity of strategic resources produced by the empire +[+100]%"
+			"[+100]% Yield from every [Luxury resource]", "[+1 Happiness] per [1] population [in all cities]", "[+100]% Production when constructing [All] wonders [in all cities]", "Quantity of strategic resources produced by the empire +[+100]%"
 		],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
